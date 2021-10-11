@@ -15,7 +15,6 @@ import com.turkcell.survey.exception.DataNotFoundException;
 import com.turkcell.survey.exception.UserAlreadyLoggedException;
 import com.turkcell.survey.exception.WrondUserCredentialException;
 import com.turkcell.survey.model.AuditLog;
-import com.turkcell.survey.repository.IUserRepository;
 import com.turkcell.survey.service.IAuditLogService;
 import com.turkcell.survey.util.PropertyKeys;
 
